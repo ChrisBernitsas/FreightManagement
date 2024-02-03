@@ -1,18 +1,1 @@
-# bananas
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-
-Our database and server are hosted through Firebase at bananapeel-891ee.web.app
+A real time monitoring system that dynamically updates the path given to the vehicles in real time. This path is calculated based on distinct data sources that consider traffic, road closures, and future weather conditions. Also impliments a way to reduce theft due to more security. 
